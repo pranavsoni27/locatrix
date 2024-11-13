@@ -23,6 +23,3 @@
 
 - [Node.js](https://nodejs.org/) (v14 or later)
 - [npm](https://www.npmjs.com/) (Node package manager)
-
-# Tags🔖:
-#locatrix #nodejs #expressjs #ejs #socketio #leaflet #webdevelopment #locationtracking #javascript #frontenddevelopment #fullstackdevelopment #open-source #realtime #mapping #tech #programming #developers #softwareengineering #html #css
