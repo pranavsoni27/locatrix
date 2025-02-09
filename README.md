@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fc38884a-2a88-4d58-b527-d7a9c28d699)
+![image](https://github.com/user-attachments/assets/0dcf1f7e-6916-4cce-a05e-2e1ea6d509c9)
 
 ## Live link: https://locatrix.glitch.me/
 
