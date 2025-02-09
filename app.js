@@ -10,7 +10,7 @@ const io = socketio(server);
 // Setting EJS as the view engine
 app.set("view engine", "ejs");
 
-// Serving static files (CSS, JS) from the 'public' folder
+// Serving static files from the 'public' folder
 app.use(express.static(path.join(__dirname, "public")));
 
 // Socket.io for handling real-time connections
