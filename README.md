@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/fc38884a-2a88-4d58-b527-d7a9c28d699c)
+![image](https://github.com/user-attachments/assets/fc38884a-2a88-4d58-b527-d7a9c28d699)
 
-## Live link: https://pointy-rambunctious-intelligence.glitch.me/
+## Live link: https://locatrix.glitch.me/
 
 # 𝙻ꭷcaƬrᎥx 🌍📍
 
